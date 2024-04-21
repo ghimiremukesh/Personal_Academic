@@ -1,2 +1,5 @@
-# Personal_Academic
-Minimalist Personal Website
+# Github for Personal Page. 
+
+Minimal Theme from orderedlist.
+
+
